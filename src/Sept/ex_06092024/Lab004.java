@@ -8,7 +8,10 @@ public class Lab004 {
 
     }
 
-
+// Single line comments
+    /*multi line comments
+    * Java coding
+    * */
 
 
 }
