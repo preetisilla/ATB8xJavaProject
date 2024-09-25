@@ -31,6 +31,21 @@ public class Lab019 {
         boolean f = a>b;
         System.out.println(f);
 
+        // Logical operator
+        // !, &&, || -> not , and , or operator
+        boolean g = true;
+        boolean h = true;
+        boolean i = g && h;
+        System.out.println(i);
+        System.out.println(!i);
+
+        // new operator
+        String s1 = new String("Preeti");
+
+        //instanceof operator
+        System.out.println(s1 instanceof String);
+
+
 
 
 
