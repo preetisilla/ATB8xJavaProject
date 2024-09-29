@@ -17,5 +17,12 @@ public class Lab022 {
         int d = c++;
         System.out.println(d++);
         System.out.println(d);
+        System.out.println(d++ + d);
+        System.out.println(d++ + ++d);
+
+        // decreemnt
+        int e = 10;
+        System.out.println(e--);
+        System.out.println(--e);
     }
 }
