@@ -2,6 +2,7 @@ package Sept.ex_18091990;
 
 public class Lab021 {
     public static void main(String[] args) {
+        //Type Casting
         //Widening
         byte a = 10;
         int b = a; // implicit widening
