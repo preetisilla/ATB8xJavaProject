@@ -28,7 +28,7 @@ public class Person {
     }
 
     void Sleep(){
-        System.out.println("Sleep well Eat Well");
+        System.out.println("Sleep well Eat Well "+name);
     }
 
     void Eat(String name2){

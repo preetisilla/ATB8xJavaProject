@@ -7,7 +7,7 @@ public class Task_04Oct_OOPS {
         p1.Eat("Preeti");
         p2.Help("9876543211");
         p2.walk();
-        p1.Sleep();
+        p2.Sleep();
 
 
     }
