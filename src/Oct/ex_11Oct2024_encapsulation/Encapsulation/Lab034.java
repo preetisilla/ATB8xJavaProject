@@ -1,4 +1,4 @@
-package Oct.ex_09Oct2024;
+package Oct.ex_11Oct2024_encapsulation.Encapsulation;
 
 public class Lab034 {
     public static void main(String[] args) {

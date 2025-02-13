@@ -1,4 +1,4 @@
-package Oct.ex_04Oct2024;
+package Oct.ex_04Oct2024_Constructors;
 
 public class Task_04Oct_OOPS_Constructors {
     public static void main(String[] args) {

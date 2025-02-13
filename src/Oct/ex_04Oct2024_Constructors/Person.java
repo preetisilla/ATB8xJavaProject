@@ -1,4 +1,4 @@
-package Oct.ex_04Oct2024;
+package Oct.ex_04Oct2024_Constructors;
 
 public class Person {
     String name;
