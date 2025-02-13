@@ -1,6 +1,6 @@
-package Oct.Tasks;
+package Oct.ex_04Oct2024;
 
-public class Task_04Oct_OOPS {
+public class Task_04Oct_OOPS_Constructors {
     public static void main(String[] args) {
         Person p1 = new Person();
         Person p2 = new Person("Preeti",34,"Bangalore","18-09-1990",7674972925l,true);
