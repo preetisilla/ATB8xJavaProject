@@ -8,18 +8,23 @@ public class Abstraction {
 }
 
 abstract class Book {
-    abstract void getDetails();
-}
-
-class PrintMyBook extends Book{
     public String name;
     public String author;
     public int price;
 
-    PrintMyBook(String name,String author,int price){
+    public Book(String name, String author, int price) {
         this.name = name;
         this.author = author;
         this.price = price;
+    }
+
+    abstract void getDetails();
+}
+
+class PrintMyBook extends Book{
+
+    PrintMyBook(String name,String author,int price){
+        super(name,author,price);
     }
     @Override
     void getDetails() {
