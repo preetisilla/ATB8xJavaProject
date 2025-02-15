@@ -17,5 +17,8 @@ public class Lab046 {
         int a3 = a;
         System.out.println(a3);
 
+        Integer b = Integer.parseInt("10");
+        System.out.println(b);
+
     }
 }
