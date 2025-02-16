@@ -10,5 +10,6 @@ public class Lab052_Throws {
 
     private static void extracted() throws FileNotFoundException{
         FileInputStream f = new FileInputStream("xyz.txt");
+        //throws are used if they want to add to method
     }
 }
